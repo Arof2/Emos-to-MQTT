@@ -1,2 +1,2 @@
-# Emos to MQTT
+# Emus to MQTT
  Transfers Data from Emos to MQTT
