@@ -26,7 +26,7 @@
 #endif
 
 #define CAN_IRQ_PIN D1
-#define CAN_CS_PIN D2
+#define CAN_CS_PIN D8
 #define LED         D4
 #define LED_ON      (digitalWrite(LED, LOW))
 #define LED_OFF     (digitalWrite(LED, HIGH))
